@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+	<head>
+	
+		<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<meta charset="UTF-8" />
+		<meta name="Description" content="Witaj na mojej stronie! Nazywam się Lion. Jestem tu królem." />
+		<link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+		<link href="http://fonts.googleapis.com/css?family=Lato:400,300italic,700&subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+		<title>Lew Lion | Błąd 404 </title>
+		
+	</head>
+	
+	<body>
+	
+			<div id="blad404">
+				<div id="b1">
+					<h1>404</h1>
+				</div>
+				<div id="kreska"></div>
+				<div id="b2">
+					<p>Przepraszamy, ale strona,</p>
+					<p>której szukasz nie istnieje.</p>
+					<br />
+					<p>Zapraszamy na <a href="index.html">Stronę Główna</a> .</p>
+				</div>
+			</div>
+			
+			<div class="clear"></div>
+		
+	</body>
+	
+</html>
