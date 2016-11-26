@@ -1,1 +1,0 @@
-# zad-week1-nr1
